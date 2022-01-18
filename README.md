@@ -69,13 +69,13 @@ ____
 #### 2 файл setupvpn.sh и cloud-bastion.ovpn в ветку репозитория cloud-bastion добавлены  
 
 #### 3 Опишите в README.md получившуюся конфигурацию  
-> bastion_IP = 51.250.12.59  
-> bastion_VPN_IP = 192.168.235.1  
-> bastion_Local_IP =10.130.0.33  
->   
-> someinternalhost_IP = 10.130.0.21  
->   
-> localhost_VPN_IP = 192.168.235.2  
+bastion_IP = 51.250.12.59  
+bastion_VPN_IP = 192.168.235.1  
+bastion_Local_IP =10.130.0.33  
+  
+someinternalhost_IP = 10.130.0.21  
+  
+localhost_VPN_IP = 192.168.235.2  
 
 #### 4 "Labels" cloud-bastion к Pull Request добавлен  
   
